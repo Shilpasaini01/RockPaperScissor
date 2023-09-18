@@ -1,2 +1,2 @@
-# RockPaperScissor
-we are creating a game Rock, Paper and Scissor using python.
+# StonePaperScissor
+we are creating a game Stone, Paper and Scissor using python.
